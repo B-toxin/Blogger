@@ -7,3 +7,4 @@ class Config:
     MAIL_USERNAME = 'caasi9092@gmail.com'
     MAIL_PASSWORD = 'wrxcyfiacptxmlib'
     STATIC_FOLDER = 'static'
+    PAYSTACK_SECRET_KEY = 'sk_test_2dc84a4699b7125060e892773bebfecb47190ee6'
